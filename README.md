@@ -11,7 +11,8 @@ Criar um Data Warehouse (DW) para análise de vendas, permitindo identificar ten
 ✅ Script SQL do DW
 ✅ Scripts das transformações (ZIP)
 ✅ PDF com evidência do e-mail de sucesso
-✅ 🎁 Bônus: Rascunho de um painel no Power BI
+📊 Painel no Power BI
+🎁 Bônus: Base de dados utilizada
 
 💡 Tecnologias utilizadas: SQL, ETL, Power BI
 
